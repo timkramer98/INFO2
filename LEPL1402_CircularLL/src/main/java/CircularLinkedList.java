@@ -63,11 +63,13 @@ public class CircularLinkedList<Item> {
      * @param item The element to add at the end of the list
      */
     public void enqueue(Item item) {
-        if (first.getItem() == null){
-           ListNode<Item> newfirst = new ListNode<Item>(item, last);
+        if (this.isEmpty()){
+           ListNode<Item> newfirst = new ListNode<Item>(item, null);
+           newfirst.setNext(newfirst);
             first = newfirst;
+            last = newfirst;
         }else {
-            ListNode<Item> newlast = new ListNode<Item>(item, last.getNext());
+            ListNode<Item> newlast = new ListNode<Item>(item, first); //last.getnext = first
             last.setNext(newlast);
             last = newlast;
         }
@@ -83,15 +85,19 @@ public class CircularLinkedList<Item> {
      *         of the list
      */
     public Item remove(int index) {
+        if (index<0 || index > this.size() || this.size == 0){
+            throw new IndexOutOfBoundsException("Index < 0 or index > size or size = 0");
+        }
         int count = 0;
         ListNode current = first;
         while(count != index-1){
             current = current.getNext();
             count++;
         }
-        current.setNext(current.getNext().getNext());
+        ListNode toReturn = current.getNext();
+        current.setNext(toReturn.getNext());
         size--;
-        return (Item) current.getNext().getItem();
+        return (Item) toReturn.getItem();
 
     }
 
