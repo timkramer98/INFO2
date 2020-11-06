@@ -22,11 +22,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea041d86-e7e8-42c7-bbfc-fdacd24ad8a5" name="Default Changelist" comment="" />
+    <list default="true" id="ff09989b-678f-499c-b20b-de80762bae9f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -38,7 +45,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1igdyjs2dxSBTicN5vfzRN8Kf2U" />
+  <component name="ProjectId" id="1jQ7tzYORYWVOvIg7N1XMjHehFn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,9 +57,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Android JUnit.Tests">
+  <component name="RunManager">
     <configuration name="Tests" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LEPL1402_CircularLL" />
+      <module name="LEPL1402_ComparatorvsComparable" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Tests" />
       <option name="TEST_OBJECT" value="class" />
@@ -61,32 +68,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LEPL1402_CircularLL" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Tests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Android JUnit.Tests" />
-        <item itemvalue="JUnit.Tests" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ea041d86-e7e8-42c7-bbfc-fdacd24ad8a5" name="Default Changelist" comment="" />
-      <created>1602333426329</created>
+      <changelist id="ff09989b-678f-499c-b20b-de80762bae9f" name="Default Changelist" comment="" />
+      <created>1603724681092</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602333426329</updated>
-      <workItem from="1602333427369" duration="3694000" />
-      <workItem from="1603724615470" duration="25000" />
+      <updated>1603724681092</updated>
+      <workItem from="1603724682347" duration="4133000" />
+      <workItem from="1604068719767" duration="607000" />
     </task>
     <servers />
   </component>
@@ -106,25 +103,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="520" y="236" key="#Notifications" timestamp="1602333473991">
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1603726405554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="520" y="236" key="#Notifications/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1602333473991" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602337835334">
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1603726405554" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1603729346439">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1602337835334" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602337835334">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1603729346439" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1603729346438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1602337835334" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602337835334">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1603729346438" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1603729346438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1602337835334" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602337835334">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1603729346438" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1603729346438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1602337835334" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/-1280.0.1280.974/0.0.1536.824@0.0.1536.824" timestamp="1603729346438" />
   </component>
 </project>
