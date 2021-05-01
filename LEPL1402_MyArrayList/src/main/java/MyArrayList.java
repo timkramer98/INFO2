@@ -50,5 +50,7 @@ public class MyArrayList<Item> implements Iterable<Item> {
     private class MyArrayListIterator implements Iterator<Item> {
         // YOUR CODE HERE
     }
-
+    public static int binarySearch(int [] arr, int low, int high, int elem) {
+        return 0;
+    }
 }

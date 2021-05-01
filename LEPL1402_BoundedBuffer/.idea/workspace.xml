@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="269e8380-7065-42ba-ab7d-9e45d27fe902" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LEPL1402_BoundedBuffer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_CyclicBarrier/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_CyclicBarrier/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_CyclicBarrier/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_CyclicBarrier/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_CyclicBarrier/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_CyclicBarrier/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_CyclicBarrier/LEPL1402_CyclicBarrier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_FListMergeSort/LEPL1402_FListMergeSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_FTree/LEPL1402_FTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_Future/LEPL1402_Future.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_Generics/LEPL1402_Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_Generics2/LEPL1402_Generics2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_MyArrayList/LEPL1402_MyArrayList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_ProducerConsumer/LEPL1402_ProducerConsumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_Streams/LEPL1402_Streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_Streams2/LEPL1402_Streams2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEPL1402_ThreadsIntroduction/LEPL1402_ThreadsIntroduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/.idea/evaluation2_2020_for_students.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/evaluation2_2020_for_students/evaluation2_2020_for_students/lepl1402-dec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_ListIterator.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_MyArrayList.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_MyArrayList/src/main/java/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_MyArrayList/src/main/java/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LEPL1402_MyArrayList/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LEPL1402_MyArrayList/src/test/java/Tests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ljUj3sjmppvOEtVUqqp3tFlZmp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="269e8380-7065-42ba-ab7d-9e45d27fe902" name="Default Changelist" comment="" />
+      <created>1608110126353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608110126353</updated>
+      <workItem from="1608110127777" duration="3855000" />
+      <workItem from="1611172502910" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

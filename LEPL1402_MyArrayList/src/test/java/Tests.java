@@ -12,7 +12,10 @@ import java.util.Iterator;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
 
+import static java.util.Arrays.binarySearch;
 import static org.junit.Assert.*;
+
+
 
 
 @RunWith(GradingRunner.class)
